@@ -7,7 +7,6 @@
 - Fork the course repository
 - Clone your fork using GitHub Desktop
 - Create a file named after yourself (e.g. mikko-lehto.txt)
-- Add your name and favourite game to the file
 - Commit your changes
 - Push to GitHub
 - Create a Pull Request to the course repository
